@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test Task 2">d87cf6bbdb79f200fa0e363ffe961991</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test Task 2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_int3221871_t_test_task_2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_int3221871_t.test_task_2_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammed.ali@snc</sys_created_by>
+        <sys_created_on>2017-04-05 11:13:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c7c3abbdb79f200fa0e363ffe96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Task 2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="INT3221871-Test" source="x_snc_int3221871_t">efa2fc5edbf17200fa0e363ffe9619fe</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="INT3221871-Test">efa2fc5edbf17200fa0e363ffe9619fe</sys_scope>
+        <sys_update_name>sys_app_module_5c7c3abbdb79f200fa0e363ffe96195b</sys_update_name>
+        <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+        <sys_updated_on>2017-04-05 11:13:06</sys_updated_on>
+        <timeline_page/>
+        <title>Test Task 2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
