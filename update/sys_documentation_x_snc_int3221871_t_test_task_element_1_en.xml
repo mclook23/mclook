@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="INT3221871" language="en" table="x_snc_int3221871_t_int3221871">
+    <sys_documentation element="element_1" label="Element 1" language="en" table="x_snc_int3221871_t_test_task">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>element_1</element>
             <help/>
             <hint/>
-            <label>INT3221871</label>
+            <label>Element 1</label>
             <language>en</language>
-            <name>x_snc_int3221871_t_int3221871</name>
-            <plural>INT3221871s</plural>
+            <name>x_snc_int3221871_t_test_task</name>
+            <plural>Element 1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>mohammed.ali@snc</sys_created_by>
-            <sys_created_on>2017-03-31 09:20:52</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>23c2349edbf17200fa0e363ffe96190f</sys_id>
+            <sys_created_on>2017-04-05 11:11:07</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>cffbb2bbdb79f200fa0e363ffe9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>INT3221871</sys_name>
+            <sys_name>Element 1</sys_name>
             <sys_package display_value="INT3221871-Test" source="x_snc_int3221871_t">efa2fc5edbf17200fa0e363ffe9619fe</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="INT3221871-Test">efa2fc5edbf17200fa0e363ffe9619fe</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_int3221871_t_int3221871__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_int3221871_t_test_task_element_1_en</sys_update_name>
             <sys_updated_by>mohammed.ali@snc</sys_updated_by>
-            <sys_updated_on>2017-03-31 09:20:52</sys_updated_on>
+            <sys_updated_on>2017-04-05 11:11:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

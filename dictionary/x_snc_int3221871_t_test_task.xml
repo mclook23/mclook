@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Task" max_length="40" name="x_snc_int3221871_t_test_task" type="collection">
+        <element label="Element 1" max_length="40" name="element_1" type="string"/>
+    </element>
+</database>
